@@ -2,7 +2,6 @@
 layout: post
 title:  "Day 4: JavaScript Binary Decoder/Encoder"
 date:   2017-09-27 16:45:00 +0100
-categories: JavaScript Binary Functional
 ---
 I love oneliners. I also love functional programming. I... would love Haskell, if I'd had the guts to learn it, but I love JavaScript. So after a year, I'm going to break the silence here with a simple little JavaScript oneliner... actually two.
 

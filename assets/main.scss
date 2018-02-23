@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-title {
+    background-image: url("https://s3-eu-central-1.amazonaws.com/coderdays/2016/09/coderdays_icon-1472907155353.svg");
+    background-size: auto 30px;
+    background-position: 0px 14px;
+    background-repeat: no-repeat;
+    padding-left: 32px;
+}
+
+.post-list > li {
+    margin-bottom: 50px;
+}
