@@ -4,7 +4,7 @@ title:  "Day 3: Ghost and DISQUS Comments"
 date:   2016-09-21 18:22:00 +0100
 ---
 The Ghost CMS doesn't have comments by default. Some might consider this a missing feature, but I don't. Why would you want to complicate your CMS with comments, if there are really nice solutions available, like [DISQUS](https://disqus.com/).
-
+<!--more-->
 ## Comments as a Service
 DISQUS focuses on one thing, comments, and they do a great job. You sign up for an account, create a site, install their widget, sit back and wait for comments to arrive.
 

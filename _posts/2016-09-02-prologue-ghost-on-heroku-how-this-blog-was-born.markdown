@@ -4,7 +4,7 @@ title:  "Prologue: Ghost on Heroku – how this blog was born"
 date:   2016-09-02 23:37:00 +0100
 ---
 Two days ago I was going over the newsletters in my inbox when I saw that [Ghost 0.10.0 was released](https://dev.ghost.org/ghost-0-10-0/). I heard about this new CMS a while back, but moving aways from WordPress and PHP seemed like a bigger jump I intended to make back then.
-
+<!--more-->
 Since then things have changed and I thought it was the perfect opportunity to jump into something new. It turned out to be a challenging one.
 
 ## Click the button...

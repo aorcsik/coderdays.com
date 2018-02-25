@@ -4,7 +4,7 @@ title:  "Day 1: Syntax Highlighted Code in Ghost with Prism.js"
 date:   2016-09-07 08:36:00 +0100
 ---
 For a coding blog, code snippets are an essential requirement. Ghost's editor is powered by Markdown, where one can create code blocks multiple ways.
-
+<!--more-->
 With indentation
 
         This is an indented code block.

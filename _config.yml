@@ -20,10 +20,18 @@ description: >- # this means to ignore newlines until "baseurl:"
   other stuff like drawing, games, movies, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: Europe/Budapest
 twitter_username: coderdays
 github_username:  aorcsik
 google_analytics: UA-8111441-10
 show_excerpts: true
+permalink: none
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: "aorcsik"
+      excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown

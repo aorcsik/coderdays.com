@@ -4,7 +4,7 @@ title:  "Day 2: Serve Images from S3"
 date:   2016-09-14 16:57:00 +0100
 ---
 I started [Mozipremierek.hu](https://mozipremierek.hu), my Hungarian movie premieres calendar more than two years ago. It went through a lot of changes lately, one of which was moving the image content to S3.
-
+<!--more-->
 ## From hosted to IaaS to PaaS
 
 Mozipremierek was born on a hosted service. back then it was fine, but after a while, the environment started feeling more and more restricting, and I also needed space to store the increasing number of image content, so I moved it to a DigitalOcean droplet.
