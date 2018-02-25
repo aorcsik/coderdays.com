@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Day 5: Good Bye Ghost, Hello Jekyll!"
+title:  "Day 5: Goodbye Ghost, Hello Jekyll!"
 date:   2018-02-25 20:08:00 +0100
 ---
 <img src="https://s3-eu-central-1.amazonaws.com/coderdays/2018/02/coderdays-ghost-jekyll.jpg" class="main-image">
 
 Some of you, who read the [Prologue][1], might remember that back in 2016 I started this new blog mainly because I wanted to use Ghost, the markdown based lightweight blog engine. It's 2018 now, and I had to make some decisions.
 <!--more-->
-### Good bye Ghost and Heroku
+### Goodbye Ghost and Heroku
 
 First of all, Ghost went 1.0, which is great, but this new version doesn't really play nice with Heroku. So either I'm stuck with 0.11 LTS or find some other place to host the blog.
 
