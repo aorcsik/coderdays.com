@@ -11,6 +11,32 @@
     padding-left: 32px;
 }
 
+.main-image {
+    width: 40%;
+    float: right;
+    margin: 0 0 20px 20px;
+    min-width: 120px;
+    border: 1px solid #bbb;
+}
+
 .post-list > li {
     margin-bottom: 50px;
+    clear: both;
+
+    .main-image {
+        width: 10%;
+        min-width: 75px;
+        float: left;
+        margin: 0 20px 0 0;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    .main-image, .post-list > li .main-image {
+        display: block;
+        width: 75%;
+        float: none;
+        margin: 10px auto;
+    }
 }
