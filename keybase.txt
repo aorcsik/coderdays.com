@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/aorcsik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://coderdays.com
+  * I am aorcsik (https://keybase.io/aorcsik) on keybase.
+  * I have a public key with fingerprint D38D 74D3 79AA C164 6D28  0110 F11A 6066 8362 3EF3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010df6ea0ced39e78a71ad6d0c7df9ef7b95585ff0fb089f9da7b834c2628e08310a",
+      "fingerprint": "d38d74d379aac1646d280110f11a606683623ef3",
+      "host": "keybase.io",
+      "key_id": "f11a606683623ef3",
+      "kid": "01010df6ea0ced39e78a71ad6d0c7df9ef7b95585ff0fb089f9da7b834c2628e08310a",
+      "uid": "9ef33782d0bcf114433b8ac4e46f5200",
+      "username": "aorcsik"
+    },
+    "merkle_root": {
+      "ctime": 1519573432,
+      "hash_meta": "935a48f1a96440141d03e3b6b598b97514038d68ed7ae8022fce6234adeddc33",
+      "seqno": 2150214
+    },
+    "revoke": {
+      "sig_ids": [
+        "8eb700512902bfcee6508c1ef8df2b487e771916507e46f77cbd755e8860012c0f"
+      ]
+    },
+    "service": {
+      "hostname": "coderdays.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1519573507,
+  "expire_in": 157680000,
+  "prev": "9436b2055e9f51856ce4ad92c67c0e6f7bbf3b508e6ab8a2e35fb9cddac7b209",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMK4AnicrVNbaB1FGD6xTdVAqajVUFslC5pSYpzL7szsSZSSB/WlRUQpVOU4l3+S
+9eScPdndpMY0ShsftNoGS1OLIlrBEuOlkfYlguZyfPDyJFrRggjeaLykxNZUSqXO
+hooIPrr7sOzs93+32flg9YpCU8PiuoftiLrjTMMncwP9he37T64Y8lRsBr3ikFeG
+5Qf0GkizUjkyXtFD2N3GMpBIg6EhcCE5loYZpLmxIViuwiAQgbXIKiRCGxrJlaC+
+JowIQIJiJL02z0bVbkhqSVTNHK2hwnDfUB5KqTHzmSECYYwsxpIhxgRlhIKlbrAn
+TvMJZ07JFNqj2K25l9Kyvf/A/8+++5fpHJ5SLohBSjtN36dUCal98JkNCEI5MIWk
+Kivg0DJOdBqVveE2rwJJuRdKSRxnebc6i3IEDnAYcOpT4vLJtKdUgUzmMjSQvrBY
+hsz3EfaxQRSoYioIhQp5gH3kimMCDJcgECFWgwvuSwPGaJrHT6GvGntFggNEsO8c
+JDAQlyEXT6Nu11rqFR/wBCiOUIBJiIhyJMACJDQGK4wlyhccOMchdqs8j8i5VoYH
+AQjBEMJEI+s9NJyLJQORXibPt+lSfB0bSIwcTNt1XHGWakmcxTrudZ96sqyWFvNi
+ssFajt0BqnSJpaSiqnF/iZsYgCSN4qoryiH/3Zlz1ObBo7UogVKUIwLOBHJXrgMD
+eYk+ZYog5za0ARYB0+AKColmXCNwYZSyVLm8wKTbRAI0sCrUxkjN3Vz4T4mUOZ+y
+23G66qoy60/AG56beXBloaGpsKrxsvz4FJquvOrvQ3X1H1cUxrxdtzbM/ln/ftOp
+F99b/dzFa4/cM77lyx3tj51v39l+zf1TT5fmr+/d98tTh0cbv+kbnyq8dOL0xHXP
+tDBenmjeOLnQeW7vk290Hmu9pePXNfXpsZmWxQ3H6aGz96qJNYd+fOXg12e7do+/
+fv61PXsXd21//ui3B7aKvu+a57ZOHnn7vu6OYXJDd/DW7dP17PMX3p+ffCK9uH/b
+bT/cteXjk2Odk+vW7ywtjH4xW2+56aMDa6ejy4+uOt1x98jmr16tdGZdL7/z+J5F
+cuMm0jV1sDC61PzZZkF+o61DQwvHmi6sPHNqaV4tbfh5fWH3WOO+Z0/c+envG4//
+9O7M3AXc+gg9Vx/ZNrs2g6UP37z58F9HSIXH
+=ounI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aorcsik
+
+==================================================================
